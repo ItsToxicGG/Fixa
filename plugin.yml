@@ -2,4 +2,4 @@ name: Blossom_Fix
 version: 1.0
 api: 4.0.0
 author: ItsToxicGG
-main: src/Fix
+main: ItsToxicGG\Fixa\Main
