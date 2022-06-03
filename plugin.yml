@@ -1,5 +1,5 @@
-name: Blossom fix
+name: Blossom_Fix
 version: 1.0
 api: 4.0.0
-author: randompluginmaker (itstoxicgg)
-main: Fix/main.php
+author: ItsToxicGG
+main: src/Fix/Main.php
