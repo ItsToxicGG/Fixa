@@ -42,7 +42,7 @@ class Main extends PluginBase implements Listener {
         $player = $event->getPlayer();
         $player->getInventory()->clearinv();  
         $item1 = ItemFactory::getInstance()->get(345, 0, 1); 
-        $item2 = ItemFactory::getInstance()->get(450, 0, 1); /\
+        $item2 = ItemFactory::getInstance()->get(450, 0, 1); 
         $item3 = ItemFactory::getInstance()->get(421, 0, 1); 421 is \/
         $item4 = ItemFactory::getInstance()->get(999, 0, 1); 999 is a presure num        
         $item1->setCustomName($this->getConfig()->get("item1-name"));
