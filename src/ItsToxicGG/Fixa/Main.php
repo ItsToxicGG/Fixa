@@ -1,6 +1,6 @@
 <?php
 
-namespace Fixa;
+namespace ItsToxicGG\Fixa;
 
 use pocketmine\Server;
 use pocketmine\player\Player;
