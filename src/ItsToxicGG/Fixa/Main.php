@@ -1,6 +1,6 @@
 <?php
 
-namespace fix;
+namespace Fixa;
 
 use pocketmine\Server;
 use pocketmine\player\Player;
